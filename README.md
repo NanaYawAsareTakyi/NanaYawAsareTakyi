@@ -19,6 +19,11 @@ As a GIS Analyst, I specialized in spatial data analysis and visualization, honi
 ## Cybersecurity Journey 
 Driven by the potential and dynamic nature of cybersecurity, I am now focusing on this field, leveraging my analytical background and continuous learning ethos to protect and secure digital assets. My projects reflect my commitment to understanding and mitigating security threats through innovative solutions.
 
+# Certifications
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-00ABE7?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-F8991D?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+
+
 # Key Projects 
 #### Vulnerability Scanner with Nessus: 
 Configured and conducted comprehensive vulnerability scans, identified and analyzed system vulnerabilities, and implemented remediation strategies.
@@ -52,8 +57,5 @@ Deployed and configured Microsoft Sentinel, created custom analytics rules using
 ## Networking and Remote Access
 <img src="https://img.shields.io/badge/-PuTTY-0277BD?&style=for-the-badge&logo=PuTTY&logoColor=white" />
 
-# Certifications
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-00ABE7?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-F8991D?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 
 

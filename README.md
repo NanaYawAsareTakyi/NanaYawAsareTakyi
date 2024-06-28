@@ -52,7 +52,8 @@ Audited and adjusted file permissions within the "projects" directory to ensure 
  
 
 ## Security Tools
-<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-6264A7?&style=for-the-badge&logo=Microsoft%20Sentinel&logoColor=white" />  <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=Nessus&logoColor=white" />  <img src="https://img.shields.io/badge/-TPOT-3776AB?&style=for-the-badge&logo=TPOT&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-6264A7?&style=for-the-badge&logo=Microsoft%20Sentinel&logoColor=white" />  <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=Nessus&logoColor=white" />  <img src="https://img.shields.io/badge/-TPOTCE-333333?&style=for-the-badge" />
+
 
 
 ## Development and Programming

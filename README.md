@@ -40,6 +40,8 @@ Deployed and configured Microsoft Sentinel, created custom analytics rules using
 #### <a href="https://github.com/NanaYawAsareTakyi/Automated-IP-Allow-List-Management-System/tree/main"> Automated IP Allow List Management System :
 Automated access control for sensitive information by updating the "allow_list.txt" file with authorized IP addresses and removing unauthorized ones using a custom algorithm.
 
+#### <a href="https://github.com/NanaYawAsareTakyi/Using-SQL-Filters-For-Efficient-Security-Management/blob/main/README.md"> Using SQL Filters For Efficient Security Management:
+Utilized SQL queries with advanced filtering techniques to analyze login attempts and manage employee machine data across multiple tables.
 
 ## Cloud Platforms
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />   <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />

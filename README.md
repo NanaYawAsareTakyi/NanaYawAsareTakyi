@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hello, I'm Nana Yaw Asare-Takyi
+<a href="https://www.linkedin.com/in/nana-yaw-asare-takyi-920330184/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**NanaYawAsareTakyi/NanaYawAsareTakyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and results-oriented professional with a background in GIS Analysis, now venturing into the exciting world of Cybersecurity.
 
-Here are some ideas to get you started:
+# Objective
+My journey from land surveying to GIS analysis has equipped me with strong analytical skills and a creative problem-solving mindset, which I now apply to the ever-evolving field of cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Professional Background
+#### Geomatic Engineering:                                                                                    
+With a degree in Geomatic Engineering, I have a solid foundation in spatial data collection, analysis, and management.
+
+#### Assistant Land Surveyor: 
+My early career involved hands-on experience in land surveying, where I developed precision and attention to detail.
+
+#### GIS Analyst: 
+As a GIS Analyst, I specialized in spatial data analysis and visualization, honing my skills in data interpretation and geographic information systems.
+
+## Cybersecurity Journey 
+Driven by the potential and dynamic nature of cybersecurity, I am now focusing on this field, leveraging my analytical background and continuous learning ethos to protect and secure digital assets. My projects reflect my commitment to understanding and mitigating security threats through innovative solutions.
+
+# Key Projects 
+#### Vulnerability Scanner with Nessus: 
+Configured and conducted comprehensive vulnerability scans, identified and analyzed system vulnerabilities, and implemented remediation strategies.
+
+#### Passbolt Password Manager: 
+Deployed and managed Passbolt on AWS Cloud, ensuring secure password storage with HTTPS encryption and reliable domain hosting.
+
+#### Azure Honeypot Deployment: 
+Implemented a honeypot on Azure Cloud to detect and analyze potential cyber threats, enhancing security measures.
+
+#### Microsoft Sentinel SIEM: 
+Deployed and configured Microsoft Sentinel, created custom analytics rules using KQL, and conducted incident investigations to mitigate cybersecurity incidents.
+
+
+## Cloud Platforms
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />   <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+ 
+
+## Security Tools
+<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-6264A7?&style=for-the-badge&logo=Microsoft%20Sentinel&logoColor=white" />  <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=Nessus&logoColor=white" />  <img src="https://img.shields.io/badge/-TPOT-3776AB?&style=for-the-badge&logo=TPOT&logoColor=white" />
+
+
+## Development and Programming
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />  <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=SQL&logoColor=white" />  <img src="https://img.shields.io/badge/-KQL-623CE4?&style=for-the-badge&logo=Azure%20Data%20Explorer&logoColor=white" />
+
+
+## Operating Systems and Virtualization
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />  <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />  <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+
+
+## Networking and Remote Access
+<img src="https://img.shields.io/badge/-PuTTY-0277BD?&style=for-the-badge&logo=PuTTY&logoColor=white" />
+
+# Certifications
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-00ABE7?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-F8991D?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+
+

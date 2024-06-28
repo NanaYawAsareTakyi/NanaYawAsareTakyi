@@ -37,6 +37,9 @@ Implemented a honeypot on Azure Cloud to detect and analyze potential cyber thre
 #### Microsoft Sentinel SIEM: 
 Deployed and configured Microsoft Sentinel, created custom analytics rules using KQL, and conducted incident investigations to mitigate cybersecurity incidents.
 
+#### <a href="https://github.com/NanaYawAsareTakyi/Automated-IP-Allow-List-Management-System/tree/main"> Automated IP Allow List Management System :
+Automated access control for sensitive information by updating the "allow_list.txt" file with authorized IP addresses and removing unauthorized ones using a custom algorithm.
+
 
 ## Cloud Platforms
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />   <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />

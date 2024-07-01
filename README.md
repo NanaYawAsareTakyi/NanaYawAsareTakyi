@@ -28,7 +28,7 @@ Driven by the potential and dynamic nature of cybersecurity, I am now focusing o
 #### Vulnerability Scanner with Nessus: 
 Configured and conducted comprehensive vulnerability scans, identified and analyzed system vulnerabilities, and implemented remediation strategies.
 
-#### Passbolt Password Manager: 
+#### <a href="https://github.com/NanaYawAsareTakyi/Deploying-Secure-Password-Systems-on-AWS-Cloud"> Deploying Secure Password Systems On AWS Cloud: 
 Deployed and managed Passbolt on AWS Cloud, ensuring secure password storage with HTTPS encryption and reliable domain hosting.
 
 #### <a href="https://github.com/NanaYawAsareTakyi/Azure-Honeypot-Project-Using-TPOTCE-for-Cyber-Threat-Analysis/blob/main/README.md"> Azure Honeypot Project Using TPOTCE for Cyber Threat Analysis:

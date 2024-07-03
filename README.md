@@ -34,7 +34,7 @@ Deployed and managed Passbolt on AWS Cloud, ensuring secure password storage wit
 #### <a href="https://github.com/NanaYawAsareTakyi/Azure-Honeypot-Project-Using-TPOTCE-for-Cyber-Threat-Analysis/blob/main/README.md"> Azure Honeypot Project Using TPOTCE for Cyber Threat Analysis:
 Implemented a honeypot on Azure Cloud to detect and analyze potential cyber threats, enhancing security measures.
 
-#### Microsoft Sentinel SIEM: 
+#### <a href="https://github.com/NanaYawAsareTakyi/Enhancing-Cybersecurity-Resilience-with-Microsoft-Sentinel-in-Azure/edit/main/README.md"> Enhancing Cybersecurity Resilience with Microsoft Sentinel in Azure: 
 Deployed and configured Microsoft Sentinel, created custom analytics rules using KQL, and conducted incident investigations to mitigate cybersecurity incidents.
 
 #### <a href="https://github.com/NanaYawAsareTakyi/Automated-IP-Allow-List-Management-System/tree/main"> Automated IP Allow List Management System :

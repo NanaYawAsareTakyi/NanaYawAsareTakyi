@@ -25,7 +25,7 @@ Driven by the potential and dynamic nature of cybersecurity, I am now focusing o
 
 
 # Key Projects 
-#### Vulnerability Scanner with Nessus: 
+#### Securing Systems with Nessus Vulnerability Scanning: 
 Configured and conducted comprehensive vulnerability scans, identified and analyzed system vulnerabilities, and implemented remediation strategies.
 
 #### <a href="https://github.com/NanaYawAsareTakyi/Deploying-Secure-Password-Systems-on-AWS-Cloud"> Deploying Secure Password Systems On AWS Cloud: 

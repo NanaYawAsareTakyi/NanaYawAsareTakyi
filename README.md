@@ -31,7 +31,7 @@ Configured and conducted comprehensive vulnerability scans, identified and analy
 #### <a href="https://github.com/NanaYawAsareTakyi/Deploying-Secure-Password-Systems-on-AWS-Cloud"> Deploying Secure Password Systems On AWS Cloud: 
 Deployed and managed Passbolt on AWS Cloud, ensuring secure password storage with HTTPS encryption and reliable domain hosting.
 
-#### <a href="https://github.com/NanaYawAsareTakyi/Azure-Honeypot-Project-Using-TPOTCE-for-Cyber-Threat-Analysis/blob/main/README.md"> Azure Honeypot Project Using TPOTCE for Cyber Threat Analysis:
+#### <a href="https://github.com/NanaYawAsareTakyi/Azure-Honeypot-Project-Using-TPOTCE-for-Cyber-Threat-Analysis/blob/main/README.md"> Proactive Threat Detection with Azure and TPOTCE Honeypot:
 Implemented a honeypot on Azure Cloud to detect and analyze potential cyber threats, enhancing security measures.
 
 #### <a href="https://github.com/NanaYawAsareTakyi/Enhancing-Cybersecurity-Resilience-with-Microsoft-Sentinel-in-Azure/edit/main/README.md"> Enhancing Cybersecurity Resilience with Microsoft Sentinel in Azure: 

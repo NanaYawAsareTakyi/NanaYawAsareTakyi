@@ -16,6 +16,10 @@ My early career involved hands-on experience in land surveying, where I develope
 #### GIS Analyst: 
 As a GIS Analyst, I specialized in spatial data analysis and visualization, honing my skills in data interpretation and geographic information systems.
 
+#### Information Technology Manager:
+Transitioning to an IT Manager role, I leveraged my technical and analytical background to oversee and optimize IT infrastructure, manage cybersecurity initiatives, and lead cross-functional teams to deliver robust and scalable technology solutions, driving efficiency and innovation within the organization.
+
+
 ## Cybersecurity Journey 
 Driven by the potential and dynamic nature of cybersecurity, I am now focusing on this field, leveraging my analytical background and continuous learning ethos to protect and secure digital assets. My projects reflect my commitment to understanding and mitigating security threats through innovative solutions.
 

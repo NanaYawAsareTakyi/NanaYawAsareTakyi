@@ -16,8 +16,8 @@ My early career involved hands-on experience in land surveying, where I develope
 #### GIS Analyst: 
 As a GIS Analyst, I specialized in spatial data analysis and visualization, honing my skills in data interpretation and geographic information systems.
 
-#### Information Technology Manager:
-Transitioning to an IT Manager role, I leveraged my technical and analytical background to oversee and optimize IT infrastructure, manage cybersecurity initiatives, and lead cross-functional teams to deliver robust and scalable technology solutions, driving efficiency and innovation within the organization.
+#### Information Technology Support Analyst:
+"Transitioning to an IT Support Analyst role, I leveraged my technical and analytical background to provide frontline technical support, troubleshoot and resolve hardware and software issues, assist in maintaining and optimizing IT infrastructure, and collaborate with team members to ensure seamless IT operations, enhancing user satisfaction and operational efficiency within the organization."
 
 
 ## Cybersecurity Journey 

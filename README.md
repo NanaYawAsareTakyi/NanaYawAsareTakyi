@@ -17,7 +17,7 @@ My early career involved hands-on experience in land surveying, where I develope
 As a GIS Analyst, I specialized in spatial data analysis and visualization, honing my skills in data interpretation and geographic information systems.
 
 #### Information Technology Support Analyst:
-"Transitioning to an IT Support Analyst role, I leveraged my technical and analytical background to provide frontline technical support, troubleshoot and resolve hardware and software issues, assist in maintaining and optimizing IT infrastructure, and collaborate with team members to ensure seamless IT operations, enhancing user satisfaction and operational efficiency within the organization."
+Transitioning to a Cybersecurity Analyst role, I leveraged my technical and analytical background to proactively identify and mitigate security threats, conduct thorough vulnerability assessments, respond to and resolve security incidents, and collaborate with cross-functional teams to strengthen the organization's security posture. This transition has enhanced my ability to protect sensitive information and ensure the integrity of IT systems, contributing to the overall security and resilience of the organization.
 
 
 ## Cybersecurity Journey 

@@ -1,10 +1,10 @@
 ## Hello, I'm Nana Yaw Asare-Takyi
 <a href="https://www.linkedin.com/in/nana-yaw-asare-takyi-920330184/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a passionate and results-oriented professional with a background in GIS Analysis, now venturing into the exciting world of Cybersecurity.
+I'm a passionate and results-oriented professional with a background in GIS Analysis and IT Support, now venturing into the exciting world of Cybersecurity.
 
 # Objective
-My journey from land surveying to GIS analysis has equipped me with strong analytical skills and a creative problem-solving mindset, which I now apply to the ever-evolving field of cybersecurity.
+My journey from land surveying to GIS analysis and IT Support have equipped me with strong analytical skills and a creative problem-solving mindset, which I now apply to the ever-evolving field of cybersecurity.
 
 # Professional Background
 #### Geomatic Engineering:                                                                                    
@@ -17,7 +17,7 @@ My early career involved hands-on experience in land surveying, where I develope
 As a GIS Analyst, I specialized in spatial data analysis and visualization, honing my skills in data interpretation and geographic information systems.
 
 #### Information Technology Support Analyst:
-Transitioning to a Cybersecurity Analyst role, I leveraged my technical and analytical background to proactively identify and mitigate security threats, conduct thorough vulnerability assessments, respond to and resolve security incidents, and collaborate with cross-functional teams to strengthen the organization's security posture. This transition has enhanced my ability to protect sensitive information and ensure the integrity of IT systems, contributing to the overall security and resilience of the organization.
+Transitioning to an IT Support Analyst role, I leveraged my technical and problem-solving background to provide timely and effective solutions for hardware, software, and network issues. I managed help desk tickets, conducted system troubleshooting, and collaborated with cross-functional teams to ensure smooth IT operations. This transition has enhanced my ability to support end-users, maintain system reliability, and contribute to the overall efficiency and productivity of the organization
 
 
 ## Cybersecurity Journey 

@@ -1,10 +1,10 @@
 ## Hello, I'm Nana Yaw Asare-Takyi
 <a href="https://www.linkedin.com/in/nana-yaw-asare-takyi-920330184/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a passionate and results-oriented professional with a background in GIS Analysis and IT Support, now venturing into the exciting world of Cybersecurity.
+I'm a passionate and results-oriented professional with a background in GIS Analysis and Customer Service, looking to apply my skills in the tech industry.
 
 # Objective
-My journey from land surveying to GIS analysis and IT Support have equipped me with strong analytical skills and a creative problem-solving mindset, which I now apply to the ever-evolving field of cybersecurity.
+My diverse background equips me with a unique perspective, allowing me to bring fresh insights to the tech industry. 
 
 # Professional Background
 #### Geomatic Engineering:                                                                                    
@@ -14,11 +14,14 @@ With a degree in Geomatic Engineering, I have a solid foundation in spatial data
 My early career involved hands-on experience in land surveying, where I developed precision and attention to detail.
 
 #### GIS Analyst: 
-As a GIS Analyst, I specialized in spatial data analysis and visualization, honing my skills in data interpretation and geographic information systems.
+In my next role as a GIS Analyst, I specialized in spatial data analysis and visualization, honing my skills in data interpretation and geographic information systems.
 
-#### Information Technology Support Analyst:
-Transitioning to an IT Support Analyst role, I leveraged my technical and problem-solving background to provide timely and effective solutions for hardware, software, and network issues. I managed help desk tickets, conducted system troubleshooting, and collaborated with cross-functional teams to ensure smooth IT operations. This transition has enhanced my ability to support end-users, maintain system reliability, and contribute to the overall efficiency and productivity of the organization
+#### Sales Agent:
+As a Sales Agent, I utilized my communication and problem-solving abilities to address customer needs and deliver timely solutions. By managing multiple client requests, optimizing inventory processes, and recommending alternatives, I ensured customer satisfaction and loyalty. My proactive approach to streamlining workflows and fostering strong client relationships not only improved service delivery but also contributed to business growth. These skills have honed my ability to work efficiently, manage priorities, and provide high-quality service in a fast-paced environment.
 
+
+## Transition to Information Technology Industry
+Transitioning to a role in tech, I'm intrigued by the prospect of leveraging my customer service and problem-solving skills to effectively manage client relationships and ensure seamless service delivery. I handled multiple customer requests, provided timely resolutions, and introduced process improvements to enhance service workflows. This experience strengthened my ability to address client concerns independently and collaborate with teams, positioning me to bring strong communication and organizational skills to the tech industry.
 
 ## Cybersecurity Journey 
 Driven by the potential and dynamic nature of cybersecurity, I am now focusing on this field, leveraging my analytical background and continuous learning ethos to protect and secure digital assets. My projects reflect my commitment to understanding and mitigating security threats through innovative solutions.

@@ -16,6 +16,9 @@ My early career involved hands-on experience in land surveying, where I develope
 #### GIS Analyst: 
 In my next role as a GIS Analyst, I specialized in spatial data analysis and visualization, honing my skills in data interpretation and geographic information systems.
 
+#### IT Support Analyst:
+As an IT Support Analyst, I provided responsive IT support through various channels, ensuring minimal disruption to operations. I had the opportunity to collaborate with colleagues to diagnose and resolve complex technical issues while identifying opportunities for system improvements. I applied advanced troubleshooting techniques to address hardware, software, and network challenges, achieving high first-time resolution rates and reducing downtime.
+
 #### Sales Agent:
 As a Sales Agent, I utilized my communication and problem-solving abilities to address customer needs and deliver timely solutions. By managing multiple client requests, optimizing inventory processes, and recommending alternatives, I ensured customer satisfaction and loyalty. My proactive approach to streamlining workflows and fostering strong client relationships not only improved service delivery but also contributed to business growth. These skills have honed my ability to work efficiently, manage priorities, and provide high-quality service in a fast-paced environment.
 
